@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahanutta
 - 👀 I’m interested in Web Development, Graphic Design, and Music Production
-- 🌱 I’m currently teaching HTML, CSS, and JavaScript as an Online Private Instructor
+- 🐝 I’m currently working in Web Development, specifically with the Shopify Plus platform.
 
 <!---
 noahanutta/noahanutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
